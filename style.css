@@ -1,0 +1,74 @@
+.cellClass {
+    border: 1px solid black;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    text-align: center;
+    table-layout: auto;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.tableClass {
+    border-collapse: collapse;
+    border: 7px solid #662900;
+    float: left;
+}
+
+.cellWRClass {
+    border: 1px solid black;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    text-align: center;
+    table-layout: auto;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.tableWhiteRemovedClass {
+    border-collapse: collapse;
+    margin-right: 80px;
+    border: 2px solid black;
+    margin-top: -250px;
+    background: linear-gradient(to bottom, #000066 12%, #00ffff 90%);
+    float: right;
+}
+
+.cellBRClass {
+    border: 1px solid black;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    text-align: center;
+    table-layout: auto;
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.tableBlackRemovedClass {
+    border-collapse: collapse;
+    margin-right: 80px;
+    border: 2px solid black;
+    margin-top: 10px;
+    background: linear-gradient(to bottom, #ff0000 12%, #ffff00 96%);
+    float: right;
+}
+
+.whitePieceRemoved {
+    float: right;
+    margin-top: 40px;
+    margin-right: 280px;
+}
+
+.blackPieceRemoved {
+    float: right;
+    margin-top: 300px;
+    margin-right: -305px;
+}
